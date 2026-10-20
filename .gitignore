@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Extra files to ignore
+*.pdf
+*.png
+*.txt
